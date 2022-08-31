@@ -5,6 +5,6 @@
 
 Analysis on Kickstarter data for trends
 
-![Outcomes_vs_Goals](kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](kickstarter-analysis/Outcomes_vs_Goals.png)
 
 
